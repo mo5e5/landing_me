@@ -18,7 +18,7 @@
 
 ```kotlin
 data class Developer(
-    val name: String       = "Your Name",
+    val name: String       = "mo5e5 aka Malte",
     val focus: List<String> = listOf("Android", "iOS", "Web", "AI"),
     val coffee: Boolean    = true,
     val sleeps: Boolean    = false
@@ -72,14 +72,14 @@ data class Developer(
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f52ff&icon_color=61dafb&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo5e5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f52ff&icon_color=61dafb&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f52ff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo5e5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f52ff&text_color=ffffff)
 
 </div>
 
 ---
-
+<!--
 ### `connect`
 
 ```swift
@@ -91,6 +91,7 @@ let links: [String: URL] = [
 ```
 
 ---
+-->
 
 <div align="center">
 
